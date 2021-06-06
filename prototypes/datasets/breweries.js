@@ -1,12 +1,12 @@
 const breweries = [
-  { 
-    name: "Little Machine Brew", 
-    neighborhood: "Highlands", 
+  {
+    name: "Little Machine Brew",
+    neighborhood: "Highlands",
     beers: [
       { name: 'B.B. Rodriguez', type: 'Coffee Double Brown', abv: 8, ibu: 30, },
       { name: 'West Side is the Blessed Side', type: 'Barrel-Aged Tripel', abv: 7.3, ibu: 35, },
       { name: 'Tigercat', type: 'American Pale Ale', abv: 5.6, ibu: 48, },
-      { name: 'Miner Threat', type: 'Rhubarb Grisette', abv: 4, ibu: 10, },        
+      { name: 'Miner Threat', type: 'Rhubarb Grisette', abv: 4, ibu: 10, },
       { name: 'That\'s My Yam', type: 'Stout', abv: 5.6, ibu: 25, },
       { name: 'Sir Veza', type: 'Lager', abv: 5.3, ibu: 8, },
       { name: 'Racer Back', type: 'English Pale', abv: 5.5, ibu: 18, },
@@ -17,8 +17,8 @@ const breweries = [
       { name: 'Socialist Millionare Problem', type: 'Pale Ale', abv: 4.9, ibu: 25, },
     ]
   },
-  { 
-    name: "Ratio Beerworks", 
+  {
+    name: "Ratio Beerworks",
     neighborhood: "RiNo",
     beers: [
       { name: 'Domestica', type: 'American Standard Ale', abv: 4.9, ibu: 11, },
@@ -28,8 +28,8 @@ const breweries = [
       { name: 'Repeater', type: 'Pale Ale', abv: 6.1, ibu: 50, }
     ]
   },
-  { 
-    name: "Spangalang Brewery", 
+  {
+    name: "Spangalang Brewery",
     neighborhood: "Five Points",
     beers: [
       { name: 'Sugarfood', type: 'Belgian', abv: 3.5, ibu: 15, },
@@ -43,9 +43,9 @@ const breweries = [
       { name: 'D-Train', type: 'India Pale Ale', abv: 6.5, ibu: 50, },
     ]
   },
-  { 
-    name: "Beryl's Beer Co.", 
-    neighborhood: "RiNo", 
+  {
+    name: "Beryl's Beer Co.",
+    neighborhood: "RiNo",
     beers: [
       { name: '5 to 7', type: 'Hoppy Pils', abv: 5.7, ibu: 50, },
       { name: 'Dick Nichols', type: 'India Pale Ale', abv: 7.1, ibu: 60, },
@@ -57,7 +57,7 @@ const breweries = [
     ]
   },
   {
-    name: "Platt Park Brewing Co.", 
+    name: "Platt Park Brewing Co.",
     neighborhood: "Platt Park",
     beers: [
       { name: 'Platt Park Porter', type: 'Porter', abv: 5.4, ibu: 22, },
